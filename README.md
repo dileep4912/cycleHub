@@ -19,7 +19,7 @@ CycleHub is a web application designed to bring together cycling enthusiasts. Th
 
 - **Frontend**: React, Vite
 - **UI Framework**: Tailwind CSS
-- **Backend**: Sanity
+- **Backend**: Firebase
 - **Fonts and Icons**: Font scripts, Font Awesome
 - **Payment Processor**: Razorpay
 - **Deployment**: Vercel
